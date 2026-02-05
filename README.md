@@ -18,7 +18,13 @@ A modern, full-stack expense management application built with **Laravel 11** an
 
 ## 🖼️ Screenshots
 
-*Coming soon*
+<img width="971" height="840" alt="image" src="https://github.com/user-attachments/assets/62a61e75-3403-449b-a4a7-218bb5a9cfac" />
+<img width="971" height="840" alt="image" src="https://github.com/user-attachments/assets/62a61e75-3403-449b-a4a7-218bb5a9cfac" />
+
+<img width="1127" height="722" alt="image" src="https://github.com/user-attachments/assets/c2d77968-ecb3-47e3-9ca3-1afe81fe7718" />
+<img width="1127" height="722" alt="image" src="https://github.com/user-attachments/assets/c2d77968-ecb3-47e3-9ca3-1afe81fe7718" />
+
+
 
 ## 🚀 Getting Started
 
